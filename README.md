@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Macdhai
 - 👀 I’m interested in PHP programming, CodeIgniter, and the Three Stooges
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...  CodeIgniter 4
+- 💞️ I’m the creator of ThreeStooges.net
+- 📫 How to reach me ...  macdhai@gmail.com
 
 <!---
 Macdhai/Macdhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
