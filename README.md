@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Macdhai
 - 👀 I’m interested in PHP programming, CodeIgniter, and the Three Stooges
-- 🌱 I’m currently learning ...  CodeIgniter 4
+- 🌱 I’m currently learning ...  Oracle Cloud
 - 💞️ I’m the creator of ThreeStooges.net
 - 📫 How to reach me ...  macdhai@gmail.com
 
